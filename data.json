@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "item": "Do a thing",
+      "status": "Incomplete",
+      "id": "1"
+    },
+    {
+      "item": "Do another thing",
+      "status": "Incomplete",
+      "id": "2"
+    },
+    {
+      "item": "Do a final thing",
+      "status": "Complete",
+      "id": "3"
+    }
+  ]
+}
